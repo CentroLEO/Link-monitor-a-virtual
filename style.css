@@ -1,8 +1,65 @@
 body {
-    color: #333;
+    color: darkblue;
     font-family: sans-serif;
+    background: rgb(209, 246, 255);
 }
 
 .link {
     text-align: center;
+    padding: 20px;
 }
+
+p {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 15px;
+}
+
+.msg {
+    font-weight: bold;
+    color: darkblue;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+.imgLeo {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 100%;
+    height: 7%;
+    text-align: center;
+}
+
+
+.imgLeo img {
+    border-radius: 50%;
+    width: 7%;
+}
+
+.cont_monitoria {
+    padding: 20px;
+    background: white;
+    width: 50%;
+    height: 20px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 80px;
+    box-shadow: 1px 1px 1px 1px lightblue;
+}
+
+.cont_retro {
+    padding: 20px;
+    background: white;
+    width: 50%;
+    height: 20px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 80px;
+    box-shadow: 1px 1px 1px 1px lightblue;
+}
+
+.cont_retro::
