@@ -40,6 +40,17 @@ a {
     width: 7%;
 }
 
+.cont_retro {
+    padding: 20px;
+    background: white;
+    width: 50%;
+    height: 20px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 80px;
+    box-shadow: 1px 1px 1px 1px lightblue;
+}
+
 .cont_monitoria {
     padding: 20px;
     background: white;
@@ -51,16 +62,7 @@ a {
     box-shadow: 1px 1px 1px 1px lightblue;
 }
 
-.cont_retro {
-    padding: 20px;
-    background: white;
-    width: 50%;
-    height: 20px;
-    margin: auto;
-    margin-top: 20px;
-    border-radius: 80px;
-    box-shadow: 1px 1px 1px 1px lightblue;
-}
+
 
 .mon_pres {
     padding: 20px;
