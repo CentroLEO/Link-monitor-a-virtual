@@ -11,7 +11,7 @@ body {
 
 p {
     padding: 0;
-    margin: 2rem auto;
+    margin: 0;
     text-align: center;
     font-size: 15px;
 }
@@ -19,6 +19,7 @@ p {
 .msg {
     font-weight: bold;
     color: darkblue;
+    margin: 2rem auto;
 }
 
 a {
